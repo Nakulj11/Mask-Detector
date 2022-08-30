@@ -1,6 +1,6 @@
 # Mask-Detector
 
-This is a mask detection program. The program detects whether or not a mask is properly worn with faces in the frame and classifies them as such
+This is a mask detection program to use to maintain mask regulations. The program detects whether or not a mask is properly worn with faces in the frame and classifies them as such
 
 Here is what that looks like:
 
